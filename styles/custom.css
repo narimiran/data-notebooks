@@ -1,0 +1,58 @@
+<style>
+    @font-face {
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 400;
+      src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+    }
+    div.cell{
+        width: 85%;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    ul {
+        line-height: 120%;
+    }
+    li {
+        margin-bottom: 0.5em;
+    }
+    h1 {
+        font-family: Arial, Helvetica, serif;
+    }
+    h2 {
+        font-family: Arial, Helvetica, serif;
+    }
+    h3 {
+        font-family: Arial, Helvetica, serif;
+    }   
+    h4 {
+        font-family: Arial, Helvetica, serif;
+    }   
+
+    div.text_cell_render{
+        font-family: "Open Sans", Computer Modern, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+        line-height: 150%;
+        font-size: 12pt;
+        width: 100%;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .CodeMirror{
+            font-family: Consolas, monospace;
+            font-size: 120%;
+    }
+    .text_cell_render h5 {
+        font-weight: 300;
+        font-size: 16pt;
+        color: #4057A1;
+        font-style: italic;
+        margin-bottom: 0.5em;
+        margin-top: 0.5em;
+        display: block;
+    }
+
+    .warning{
+        color: rgb( 240, 20, 20 )
+        }
+</style>
