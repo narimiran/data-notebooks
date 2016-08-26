@@ -1,5 +1,5 @@
 <style>
-    @import 'https://fonts.googleapis.com/css?family=Merriweather:300|Open+Sans:700';
+    @import 'https://fonts.googleapis.com/css?family=Merriweather:300|Open+Sans:700|Source+Code+Pro';
     div.cell{
         width: 85%;
         margin-left:auto;
@@ -35,8 +35,8 @@
         margin-right:auto;
     }
     .CodeMirror{
-            font-family: Consolas, monospace;
-            font-size: 120%;
+            font-family: 'Source Code Pro', 'Consolas', monospace;
+            font-size: 12pt;
     }
     .text_cell_render h5 {
         font-weight: 300;
