@@ -82,3 +82,5 @@ sftp-config.json
 
 ###Misc###
 *.exe
+*.sqlite
+WDI*.csv
