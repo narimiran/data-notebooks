@@ -11,7 +11,7 @@
     li {
         margin-bottom: 0.5em;
     }
-    h1, h2, h3, h4 {
+    h1, h2, h3, h4, h5 {
         font-family: 'Open Sans', sans-serif;
     }
 
@@ -33,16 +33,6 @@
         font-family: 'Source Code Pro', 'Consolas', monospace;
         font-size: 12pt;
     }
-    .text_cell_render h5 {
-        font-weight: 300;
-        font-size: 16pt;
-        color: #4057A1;
-        font-style: italic;
-        margin-bottom: 0.5em;
-        margin-top: 0.5em;
-        display: block;
-    }
-
     .warning{
         color: rgb( 240, 20, 20 )
         }
